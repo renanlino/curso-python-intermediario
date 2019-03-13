@@ -14,4 +14,7 @@
 
 ## Exercícios ##
 
-- Em breve
+1. Qual a média salarial ofertada nos convites do arquivo de exemplo (invites.csv)?
+2. Qual a empresa responsável pelo invite com maior média salarial?
+3. Qual a frequência de todas as palavras dentro da descrição dos invites?
+4. Gravar um CSV com cada ocorrência de palavra e sua frequência relativa (tem um esqueleto pronto pra te ajudar a resolver!)
